@@ -1,7 +1,7 @@
-DB_SERVER = 'gh45wmpmnu.database.windows.net'
-DB_NAME = 'test'
-DB_USERNAME = 'kokan@gh45wmpmnu'
-DB_PASSWORD = '<password>'
+DB_SERVER = 'DB_HOST'
+DB_NAME = 'DB_NAME'
+DB_USERNAME = '<DB_USERNAME'
+DB_PASSWORD = '<DB_PASSWORD>'
 
 ADD_STAN_SQL = ('INSERT INTO stanovi_stanovi '
               '(id, id_source, title, url, published_date, modified_date, type, price, area,'
